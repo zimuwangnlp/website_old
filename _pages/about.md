@@ -67,7 +67,7 @@ The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICN 2022</div><img src='icicn22-kgqg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICICN 2022</div><img src='images/icicn22-kgqg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Generating Complex Questions from Knowledge Graphs with Query Graphs**
