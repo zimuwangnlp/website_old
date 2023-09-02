@@ -62,7 +62,7 @@ Xiaozhi Wang\*, Yulin Chen\*, Ning Ding, Hao Peng, **Zimu Wang**, Yankai Lin, Xu
 
 The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), 2022
 
-[ACL Anthology](https://aclanthology.org/2022.emnlp-main.60.pdf) | [arXiv](https://arxiv.org/pdf/2211.07342.pdf) | [Dataset & Code](https://github.com/THU-KEG/MAVEN-ERE)
+[ACL Anthology](https://aclanthology.org/2022.emnlp-main.60.pdf) ~ [arXiv](https://arxiv.org/pdf/2211.07342.pdf) ~ [Dataset & Code](https://github.com/THU-KEG/MAVEN-ERE)
 
 </div>
 </div>
