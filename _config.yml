@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zimu Wang (王子木)"
-description              : "PhD student at the University of Liverpool."
+description              : "Ph.D. student at the University of Liverpool."
 repository               : "zimuwangnlp/zimuwangnlp.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0EzXWPgAAAAJ"
   email            : "Zimu.Wang19@student.xjtlu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zimu-Wang-9"
   uri              :
   bitbucket        :
   codepen          :
