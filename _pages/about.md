@@ -36,16 +36,16 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - *2019.09 - 2023.07*, **BEng. (First Class Hons)** in Data Science and Big Data Technology, Xi'an Jiaotong-Liverpool University.
 
 # 📝 Publications
-## Conference Proceedings
+**Conference Proceedings:**
 - Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
 - Hongbin Na\*, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, **Zimu Wang**, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* (**BIBE 2023**).
 - **Zimu Wang** and Hong-Seng Gan. Multi-level Adversarial Training for Stock Sentiment Prediction. *2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence* (**CCAI 2023**). [[IEEE Xplore](https://ieeexplore.ieee.org/document/10201295)]
 - Xiaozhi Wang\*, Yulin Chen\*, Ning Ding, Hao Peng, **Zimu Wang**, Yankai Lin, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, and Jie Zhou. MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction. *The 2022 Conference on Empirical Methods in Natural Language Processing* (**EMNLP 2022**). [[ACL Anthology](https://aclanthology.org/2022.emnlp-main.60.pdf), [arXiv](https://arxiv.org/pdf/2211.07342.pdf), [Dataset & Code](https://github.com/THU-KEG/MAVEN-ERE)]
 - **Zimu Wang**. Generating Complex Questions from Knowledge Graphs with Query Graphs. *2022 IEEE 10th International Conference on Information, Communication and Networks* (**ICICN 2022**). [[IEEE Xplore](https://ieeexplore.ieee.org/document/10006514)]
 
-## Technical Reports
+**Technical Reports:**
 - **Zimu Wang**, Wei Wang, Qi Chen, Qiufeng Wang, and Anh Nguyen. Generating Valid and Natural Adversarial Examples with Large Language Models. arXiv preprint arXiv:2311.11861. [[arXiv](https://arxiv.org/pdf/2311.11861.pdf)]
-- Hao Peng, Xiaozhi Wang, Jianhui Chen, Weikai Li, Yunjia Qi, **Zimu Wang**, Zhili Wu, Kaisheng Zeng, Bin Xu, Lei Hou, and Juanzi Li. When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks. arXiv preprint arXiv:2311.08993. [[arXiv](https://arxiv.org/pdf/2311.08993.pdf)]
+- Hao Peng\*, Xiaozhi Wang\*, Jianhui Chen\*, Weikai Li, Yunjia Qi, **Zimu Wang**, Zhili Wu, Kaisheng Zeng, Bin Xu, Lei Hou, and Juanzi Li. When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks. arXiv preprint arXiv:2311.08993. [[arXiv](https://arxiv.org/pdf/2311.08993.pdf)]
 
 # 🏫 Teaching
 **Xi'an Jiaotong-Liverpool University:**
@@ -63,6 +63,7 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - *2023.05*, PyTorch 101: Getting Started in AI with PyTorch, in ASM East Coast Chapter STEM Programme, Academy of Sciences Malaysia.
 
 # 🎖 Honors and Awards
+- *2023.09*, **Postgraduate Research Scholarship (PGRS)**, Xi'an Jiaotong-Liverpool University.
 - *2023.05*, **Best Oral Presentation**, 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI 2023).
 - *2022.09*, **2022/23 University Academic Excellence Award** (Top 5%), Xi'an Jiaotong-Liverpool University.
 - *2022.08*, **Best Oral Presentation**, 2022 IEEE 10th International Conference on Information, Communication and Networks (ICICN 2022).
