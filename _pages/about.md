@@ -24,8 +24,8 @@ His broad research interest is the intersection between Knowledge Graphs, Data a
 Zimu Wang is open to collaborations. If you're interested in working with him, please feel free to send him an [email](mailto:Zimu.Wang19@student.xjtlu.edu.cn).
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 New preprint: [Generating Valid and Natural Adversarial Examples with Large Language Models
-](https://arxiv.org/pdf/2311.11861.pdf).
+- *2024.01*: &nbsp;🎉🎉 One paper accepted by **EACL 2024**: [FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model](#).
+- *2023.11*: &nbsp;🎉🎉 New preprint: [Generating Valid and Natural Adversarial Examples with Large Language Models](https://arxiv.org/pdf/2311.11861.pdf).
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by **BIBE 2023**: [Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis]().
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **EMNLP 2023 (Demo)**: [OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding](https://arxiv.org/pdf/2309.14258.pdf).
 - *2023.09*: &nbsp;🎉🎉 Starting from Sept. 2023, I am honored to join the University of Liverpool as a Ph.D. student, jointly advised by Dr. [Wei Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/computer-science-and-software-engineering/staff/wei-wang03), Dr. [Qiufeng Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/qiufeng-wang), Dr. [Qi Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/school-of-ai-and-advanced-computing/staff/qi-chen02), and Dr. [Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/).
@@ -37,6 +37,7 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 📝 Publications
 **Conference Proceedings:**
+- Zhilu Zhang, Procheta Sen, Zhengyong Jiang, Jionglong Su, Ruoyu Sun, **Zimu Wang**. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**).
 - Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
 - Hongbin Na\*, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, **Zimu Wang**, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* (**BIBE 2023**).
 - **Zimu Wang** and Hong-Seng Gan. Multi-level Adversarial Training for Stock Sentiment Prediction. *2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence* (**CCAI 2023**). [[IEEE Xplore](https://ieeexplore.ieee.org/document/10201295)]
