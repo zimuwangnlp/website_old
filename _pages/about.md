@@ -37,7 +37,7 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 📝 Publications
 **Conference Proceedings:**
-- Zhilu Zhang, Procheta Sen, Zhengyong Jiang, Jionglong Su, Ruoyu Sun, **Zimu Wang**. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**).
+- Zhilu Zhang, Procheta Sen, Zhengyong Jiang, Jionglong Su, Ruoyu Sun, and **Zimu Wang**. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**).
 - Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
 - Hongbin Na\*, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, **Zimu Wang**, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* (**BIBE 2023**).
 - **Zimu Wang** and Hong-Seng Gan. Multi-level Adversarial Training for Stock Sentiment Prediction. *2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence* (**CCAI 2023**). [[IEEE Xplore](https://ieeexplore.ieee.org/document/10201295)]
