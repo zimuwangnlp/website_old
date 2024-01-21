@@ -48,10 +48,6 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - **Zimu Wang**, Wei Wang, Qi Chen, Qiufeng Wang, and Anh Nguyen. Generating Valid and Natural Adversarial Examples with Large Language Models. arXiv preprint arXiv:2311.11861. [[arXiv](https://arxiv.org/pdf/2311.11861.pdf)]
 - Hao Peng\*, Xiaozhi Wang\*, Jianhui Chen\*, Weikai Li, Yunjia Qi, **Zimu Wang**, Zhili Wu, Kaisheng Zeng, Bin Xu, Lei Hou, and Juanzi Li. When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks. arXiv preprint arXiv:2311.08993. [[arXiv](https://arxiv.org/pdf/2311.08993.pdf)]
 
-# 🧙 Professional Services
-**Reviewer:**
-- 2024: ACL Rolling Review (ARR), LREC-COLING 2024
-
 # 🏫 Teaching
 **Xi'an Jiaotong-Liverpool University:**
 - *2023.09 - 2024.01*, **Teaching Assistant**, CPT201 Database Development and Design, AY2023/24 Semester 1.
@@ -63,6 +59,10 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - Lilin Wang (XJTLU BEng'24) [[BIBE 2023]()]
 - Xin Yuan (XJTLU BEng'24)
 - Xinyao Zhuang (XJTLU BEng'24) [[BIBE 2023]()]
+
+# 🧙 Professional Services
+**Reviewer:**
+- *2024*: ACL Rolling Review (ARR), LREC-COLING 2024
 
 # 💬 Invited Talks
 - *2023.05*, PyTorch 101: Getting Started in AI with PyTorch, in ASM East Coast Chapter STEM Programme, Academy of Sciences Malaysia.

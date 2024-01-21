@@ -11,15 +11,15 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Professional Services"
-    url: "/#-professional-services"
   
   - title: "Teaching"
     url: "/#-teaching"
   
   - title: "Supervision"
     url: "/#-supervision"
+    
+  - title: "Professional Services"
+    url: "/#-professional-services"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
