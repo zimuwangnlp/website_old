@@ -39,12 +39,12 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 # 📝 Publications
 **Conference Proceedings:**
 - **Zimu Wang**, Wei Wang, Qi Chen, Qiufeng Wang, and Anh Nguyen. Generating Valid and Natural Adversarial Examples with Large Language Models. *2024 27th International Conference on Computer Supported Cooperative Work in Design* (**CSCWD 2024**). [[arXiv](https://arxiv.org/pdf/2311.11861.pdf)]
-- Zhilu Zhang, Procheta Sen, **Zimu Wang**, Ruoyu Sun, Zhengyong Jiang, and Jionglong Su. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**). [[ACL Anthology](https://aclanthology.org/2024.eacl-long.15.pdf)]
-- Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[ACL Anthology](https://aclanthology.org/2023.emnlp-demo.46.pdf), [arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
-- Hongbin Na\*, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, **Zimu Wang**, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* (**BIBE 2023**) [[IEEE Xplore](https://ieeexplore.ieee.org/document/10431887)].
-- **Zimu Wang** and Hong-Seng Gan. Multi-level Adversarial Training for Stock Sentiment Prediction. *2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence* (**CCAI 2023**). [[IEEE Xplore](https://ieeexplore.ieee.org/document/10201295)]
-- Xiaozhi Wang\*, Yulin Chen\*, Ning Ding, Hao Peng, **Zimu Wang**, Yankai Lin, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, and Jie Zhou. MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction. *The 2022 Conference on Empirical Methods in Natural Language Processing* (**EMNLP 2022**). [[ACL Anthology](https://aclanthology.org/2022.emnlp-main.60.pdf), [arXiv](https://arxiv.org/pdf/2211.07342.pdf), [Dataset & Code](https://github.com/THU-KEG/MAVEN-ERE)]
-- **Zimu Wang**. Generating Complex Questions from Knowledge Graphs with Query Graphs. *2022 IEEE 10th International Conference on Information, Communication and Networks* (**ICICN 2022**). [[IEEE Xplore](https://ieeexplore.ieee.org/document/10006514)]
+- Zhilu Zhang, Procheta Sen, **Zimu Wang**, Ruoyu Sun, Zhengyong Jiang, and Jionglong Su. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**). [[Paper](https://aclanthology.org/2024.eacl-long.15.pdf)]
+- Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[Paper](https://aclanthology.org/2023.emnlp-demo.46.pdf), [arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
+- Hongbin Na\*, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, **Zimu Wang**, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* (**BIBE 2023**) [[Paper](https://ieeexplore.ieee.org/document/10431887)].
+- **Zimu Wang** and Hong-Seng Gan. Multi-level Adversarial Training for Stock Sentiment Prediction. *2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence* (**CCAI 2023**). [[Paper](https://ieeexplore.ieee.org/document/10201295)]
+- Xiaozhi Wang\*, Yulin Chen\*, Ning Ding, Hao Peng, **Zimu Wang**, Yankai Lin, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, and Jie Zhou. MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction. *The 2022 Conference on Empirical Methods in Natural Language Processing* (**EMNLP 2022**). [[Paper](https://aclanthology.org/2022.emnlp-main.60.pdf), [arXiv](https://arxiv.org/pdf/2211.07342.pdf), [Dataset & Code](https://github.com/THU-KEG/MAVEN-ERE)]
+- **Zimu Wang**. Generating Complex Questions from Knowledge Graphs with Query Graphs. *2022 IEEE 10th International Conference on Information, Communication and Networks* (**ICICN 2022**). [[Paper](https://ieeexplore.ieee.org/document/10006514)]
 
 **Technical Reports:**
 - Hongbin Na, **Zimu Wang**, Mieradilijiang Maimaiti, Tong Chen, Wei Wang, Tao Shen, and Ling Chen. Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation. arXiv preprint arXiv:2402.10699. [[arXiv](https://arxiv.org/pdf/2402.10699.pdf)]
@@ -66,7 +66,8 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 🧙 Professional Services
 **Reviewer:**
-- *2024*, ACL Rolling Review (ARR), LREC-COLING 2024
+- *2023*, ACL Rolling Review (ARR)
+- *2024*, ECAI 2024, LREC-COLING 2024, NeurIPS 2024
 
 # 💬 Invited Talks
 - *2023.05*, PyTorch 101: Getting Started in AI with PyTorch, in ASM East Coast Chapter STEM Programme, Academy of Sciences Malaysia.
