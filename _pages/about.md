@@ -66,8 +66,8 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 🧙 Professional Services
 **Reviewer:**
-- *2023*, ACL Rolling Review (ARR)
 - *2024*, ECAI 2024, LREC-COLING 2024, NeurIPS 2024
+- *2023*, ACL Rolling Review (ARR)
 
 # 💬 Invited Talks
 - *2023.05*, PyTorch 101: Getting Started in AI with PyTorch, in ASM East Coast Chapter STEM Programme, Academy of Sciences Malaysia.
