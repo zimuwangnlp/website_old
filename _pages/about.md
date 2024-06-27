@@ -38,6 +38,8 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 📝 Publications
 **Conference Proceedings:**
+- Yuqi Wang, **Zimu Wang**, Nijia Han, Wei Wang, Qi Chen, Haiyang Zhang, Yushan Pan, and Anh Nguyen. Knowledge Distillation from Monolingual to Multilingual Models for Intelligent and Interpretable Multilingual Emotion Detection. *14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis* (**WASSA@ACL 2024**). [[Paper](#)]
+- **Zimu Wang**, Yuqi Wang, Nijia Han, Qi Chen, Haiyang Zhang, Yushan Pan, Qiufeng Wang, and Wei Wang. System Report for CCL24-Eval Task 8: Exploring Faithful and Informative Commonsense Reasoning and Moral Understanding in Children's Stories. The 23rd China National Conference on Computational Linguistics: Evaluations (**CCL24-Eval**). [[Paper](#)]
 - **Zimu Wang**, Wei Wang, Qi Chen, Qiufeng Wang, and Anh Nguyen. Generating Valid and Natural Adversarial Examples with Large Language Models. *2024 27th International Conference on Computer Supported Cooperative Work in Design* (**CSCWD 2024**). [[arXiv](https://arxiv.org/pdf/2311.11861.pdf)]
 - Zhilu Zhang, Procheta Sen, **Zimu Wang**, Ruoyu Sun, Zhengyong Jiang, and Jionglong Su. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**). [[Paper](https://aclanthology.org/2024.eacl-long.15.pdf)]
 - Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[Paper](https://aclanthology.org/2023.emnlp-demo.46.pdf), [arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
@@ -66,7 +68,7 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 🧙 Professional Services
 **Reviewer:**
-- *2024*, ECAI 2024, LREC-COLING 2024, NeurIPS 2024
+- *2024*, ACL Rolling Review (ARR), ECAI 2024, LREC-COLING 2024, NeurIPS 2024
 - *2023*, ACL Rolling Review (ARR)
 
 # 💬 Invited Talks
