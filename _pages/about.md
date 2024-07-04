@@ -67,7 +67,8 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - Xinyao Zhuang (XJTLU BEng'24) [[BIBE 2023](https://ieeexplore.ieee.org/document/10431887)]
 
 # 🧙 Professional Services
-**Reviewer:**
+**Program Committee Member/Reviewer:**
+- *2025*, COLING 2025
 - *2024*, ACL Rolling Review (ARR), ECAI 2024, LREC-COLING 2024, NeurIPS 2024
 - *2023*, ACL Rolling Review (ARR)
 
