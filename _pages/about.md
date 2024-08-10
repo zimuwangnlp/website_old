@@ -37,14 +37,20 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - *2019.09 - 2023.07*, **BEng. (First Class Hons)** in Data Science and Big Data Technology, Xi'an Jiaotong-Liverpool University.
 
 # 📝 Publications
-**Conference Proceedings:**
+**2024:**
+- Nijia Han, **Zimu Wang**, Yuqi Wang, Haiyang Zhang, Daiyun Huang and, Wei Wang MTSwitch: A Web-based System for Translation between Molecules and Texts. *The 17th International Natural Language Generation Conference: System Demonstrations* (**INLG 2024 Demo**). [[Paper](#)]
 - Yuqi Wang, **Zimu Wang**, Nijia Han, Wei Wang, Qi Chen, Haiyang Zhang, Yushan Pan, and Anh Nguyen. Knowledge Distillation from Monolingual to Multilingual Models for Intelligent and Interpretable Multilingual Emotion Detection. *14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis* (**WASSA@ACL 2024**). [[Paper](#)]
+- Tong Chen, Procheta Sen, **Zimu Wang**, Zhengyong Jiang, and Jionglong Su. Knowledge Base-enhanced Multilingual Relation Extraction with Large Language Models. *The First International OpenKG Workshop on Large Knowledge-Enhanced Models* (**LKM@IJCAI 2024**). [[Paper](#)]
 - **Zimu Wang**, Yuqi Wang, Nijia Han, Qi Chen, Haiyang Zhang, Yushan Pan, Qiufeng Wang, and Wei Wang. System Report for CCL24-Eval Task 8: Exploring Faithful and Informative Commonsense Reasoning and Moral Understanding in Children's Stories. *The 23rd China National Conference on Computational Linguistics: Evaluations* (**CCL24-Eval**). [[Paper](#)]
 - **Zimu Wang**, Wei Wang, Qi Chen, Qiufeng Wang, and Anh Nguyen. Generating Valid and Natural Adversarial Examples with Large Language Models. *2024 27th International Conference on Computer Supported Cooperative Work in Design* (**CSCWD 2024**). [[arXiv](https://arxiv.org/pdf/2311.11861.pdf)]
 - Zhilu Zhang, Procheta Sen, **Zimu Wang**, Ruoyu Sun, Zhengyong Jiang, and Jionglong Su. FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model. *The 18th Conference of the European Chapter of the Association for Computational Linguistics* (**EACL 2024**). [[Paper](https://aclanthology.org/2024.eacl-long.15.pdf)]
+
+**2023:**
 - Hao Peng\*, Xiaozhi Wang\*, Feng Yao, **Zimu Wang**, Chuzhao Zhu, Kaisheng Zeng, Lei Hou, and Juanzi Li. OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding. *The 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations* (**EMNLP 2023 Demo**). [[Paper](https://aclanthology.org/2023.emnlp-demo.46.pdf), [arXiv](https://arxiv.org/pdf/2309.14258.pdf), [Code](https://github.com/THU-KEG/OmniEvent), [Demo](https://omnievent.xlore.cn/)]
 - Hongbin Na\*, Lilin Wang\*, Xinyao Zhuang, Jianfei He, Zhenyu Liu, **Zimu Wang**, and Hong-Seng Gan. Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis. *2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering* (**BIBE 2023**) [[Paper](https://ieeexplore.ieee.org/document/10431887)].
 - **Zimu Wang** and Hong-Seng Gan. Multi-level Adversarial Training for Stock Sentiment Prediction. *2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence* (**CCAI 2023**). [[Paper](https://ieeexplore.ieee.org/document/10201295)]
+
+**2022:**
 - Xiaozhi Wang\*, Yulin Chen\*, Ning Ding, Hao Peng, **Zimu Wang**, Yankai Lin, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, and Jie Zhou. MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction. *The 2022 Conference on Empirical Methods in Natural Language Processing* (**EMNLP 2022**). [[Paper](https://aclanthology.org/2022.emnlp-main.60.pdf), [arXiv](https://arxiv.org/pdf/2211.07342.pdf), [Dataset & Code](https://github.com/THU-KEG/MAVEN-ERE)]
 - **Zimu Wang**. Generating Complex Questions from Knowledge Graphs with Query Graphs. *2022 IEEE 10th International Conference on Information, Communication and Networks* (**ICICN 2022**). [[Paper](https://ieeexplore.ieee.org/document/10006514)]
 
