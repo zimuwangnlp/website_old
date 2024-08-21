@@ -24,6 +24,7 @@ His broad research interest is the intersection between Knowledge Graphs, Data a
 Zimu Wang is open to collaborations. If you're interested in working with him, please feel free to send him an [email](mailto:Zimu.Wang19@student.xjtlu.edu.cn).
 
 # 🔥 News
+- *2024.08*: One paper accepted by **ICONIP 2024**: [MonoTCM: Semantic-Depth Fusion Transformer for Monocular 3D Object Detection with Token Clustering and Merging](#).
 - *2024.02*: &nbsp;🎉🎉 New preprint: [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/pdf/2402.10699.pdf).
 - *2024.01*: &nbsp;🎉🎉 One paper accepted by **CSCWD 2024**: [Generating Valid and Natural Adversarial Examples with Large Language Models](https://arxiv.org/pdf/2311.11861.pdf).
 - *2024.01*: &nbsp;🎉🎉 One paper accepted by **EACL 2024**: [FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model](https://aclanthology.org/2024.eacl-long.15.pdf).
@@ -38,7 +39,8 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 
 # 📝 Publications
 **2024:**
-- Nijia Han, **Zimu Wang**, Yuqi Wang, Haiyang Zhang, Daiyun Huang and, Wei Wang MTSwitch: A Web-based System for Translation between Molecules and Texts. *The 17th International Natural Language Generation Conference: System Demonstrations* (**INLG 2024 Demo**). [[Paper](#)]
+- Changyu Zeng, **Zimu Wang**, Jimin Xiao, Anh Nguyen, Kaizhu Huang, Wei Wang, and Yutao Yue. MonoTCM: Semantic-Depth Fusion Transformer for Monocular 3D Object Detection with Token Clustering and Merging. *The 31st International Conference on Neural Information Processing* (**ICONIP 2024**). [[Paper](#)]
+- Nijia Han, **Zimu Wang**, Yuqi Wang, Haiyang Zhang, Daiyun Huang, and Wei Wang MTSwitch: A Web-based System for Translation between Molecules and Texts. *The 17th International Natural Language Generation Conference: System Demonstrations* (**INLG 2024 Demo**). [[Paper](#)]
 - Yuqi Wang, **Zimu Wang**, Nijia Han, Wei Wang, Qi Chen, Haiyang Zhang, Yushan Pan, and Anh Nguyen. Knowledge Distillation from Monolingual to Multilingual Models for Intelligent and Interpretable Multilingual Emotion Detection. *14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis* (**WASSA@ACL 2024**). [[Paper](#)]
 - Tong Chen, Procheta Sen, **Zimu Wang**, Zhengyong Jiang, and Jionglong Su. Knowledge Base-enhanced Multilingual Relation Extraction with Large Language Models. *The First International OpenKG Workshop on Large Knowledge-Enhanced Models* (**LKM@IJCAI 2024**). [[Paper](#)]
 - **Zimu Wang**, Yuqi Wang, Nijia Han, Qi Chen, Haiyang Zhang, Yushan Pan, Qiufeng Wang, and Wei Wang. System Report for CCL24-Eval Task 8: Exploring Faithful and Informative Commonsense Reasoning and Moral Understanding in Children's Stories. *The 23rd China National Conference on Computational Linguistics: Evaluations* (**CCL24-Eval**). [[Paper](#)]
