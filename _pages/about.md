@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zimu Wang (王子木) is a first-year Ph.D. student at the [University of Liverpool](https://www.liverpool.ac.uk/) (UoL), base at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/) (XJTLU), jointly advised by Dr. [Wei Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/computer-science-and-software-engineering/staff/wei-wang03) (XJTLU), Dr. [Qiufeng Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/qiufeng-wang) (XJTLU), Dr. [Qi Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/school-of-ai-and-advanced-computing/staff/qi-chen02) (XJTLU), and Dr. [Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/) (UoL). He is also closely collaborating with Dr. [Xinya Du](https://xinyadu.github.io/) at the [University of Texas of Dallas](https://www.utdallas.edu/). Before joining XJTLU/UoL, he has worked as a research intern at the [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) (KEG), [Tsinghua University](https://www.tsinghua.edu.cn/en/) from 2022 to 2023, supervised by Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+Zimu Wang (王子木) is a first-year Ph.D. student at the [University of Liverpool](https://www.liverpool.ac.uk/) (UoL), base at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/) (XJTLU), jointly advised by Dr. [Wei Wang](https://scholar.xjtlu.edu.cn/en/persons/WeiWang03) (XJTLU), Dr. [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang) (XJTLU), Dr. [Qi Chen](https://scholar.xjtlu.edu.cn/en/persons/QiChen02) (XJTLU), and Dr. [Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/) (UoL). He is also closely collaborating with Dr. [Xinya Du](https://xinyadu.github.io/) at the [University of Texas of Dallas](https://www.utdallas.edu/). Before joining XJTLU/UoL, he has worked as a research intern at the [Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/) (KEG), [Tsinghua University](https://www.tsinghua.edu.cn/en/) from 2022 to 2023, supervised by Prof. [Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
 
 His broad research interest is the intersection between Knowledge Graphs, Data and Knowledege Engineering, and Natural Language Processing (NLP). To be specific, his current research topics include **Information Extraction**, **Natural Language Reasoning**, **Large Language Models**, and **Large Vision-Language Models**. You can refer to his [Google Scholar](https://scholar.google.com/citations?user=0EzXWPgAAAAJ) for his research details <a href='https://scholar.google.com/citations?user=0EzXWPgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -30,7 +30,7 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - *2024.01*: &nbsp;🎉🎉 One paper accepted by **EACL 2024**: [FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model](https://aclanthology.org/2024.eacl-long.15.pdf).
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by **BIBE 2023**: [Attention-based Multimodal Bilinear Feature Fusion for Lung Cancer Survival Analysis](https://ieeexplore.ieee.org/document/10431887).
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **EMNLP 2023 (Demo)**: [OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding](https://arxiv.org/pdf/2309.14258.pdf).
-- *2023.09*: &nbsp;🎉🎉 Starting from Sept. 2023, I am honored to join the University of Liverpool as a Ph.D. student, jointly advised by Dr. [Wei Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/computer-science-and-software-engineering/staff/wei-wang03), Dr. [Qiufeng Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/qiufeng-wang), Dr. [Qi Chen](https://www.xjtlu.edu.cn/zh/departments/academic-departments/school-of-ai-and-advanced-computing/staff/qi-chen02), and Dr. [Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/).
+- *2023.09*: &nbsp;🎉🎉 Starting from Sept. 2023, I am honored to join the University of Liverpool as a Ph.D. student, jointly advised by Dr. [Wei Wang](https://scholar.xjtlu.edu.cn/en/persons/WeiWang03), Dr. [Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), Dr. [Qi Chen](https://scholar.xjtlu.edu.cn/en/persons/QiChen02), and Dr. [Anh Nguyen](https://cgi.csc.liv.ac.uk/~anguyen/).
 
 # 📖 Educations
 - *2023.09 - Present*, **Ph.D.** in Computer Science and Software Engineering, University of Liverpool.
@@ -79,7 +79,7 @@ Zimu Wang is open to collaborations. If you're interested in working with him, p
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
 **Program Committee Member/Conference Reviewer:**
-- *2025*, COLING 2025
+- *2025*, COLING 2025, ICLR 2025
 - *2024*, ACL Rolling Review (ARR), ECAI 2024, LREC-COLING 2024, NeurIPS 2024
 - *2023*, ACL Rolling Review (ARR)
 
