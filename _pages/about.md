@@ -24,9 +24,9 @@ His broad research interest is the intersection between Knowledge Graphs, Data a
 Zimu Wang is open to collaborations. If you're interested in working with him, please feel free to send him an [email](mailto:Zimu.Wang19@student.xjtlu.edu.cn).
 
 # 🔥 News
-- *2024.09*: One paper accepted by **NeurIPS 2024 (D&B Track)**: [MEQA: A Benchmark for Multi-hop Event-centric Question Answering with Explanations](#).
-- *2024.09*: One paper accepted by **EMNLP 2024 (Findings)**: [Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering](#).
-- *2024.08*: One paper accepted by **ICONIP 2024**: [MonoTCM: Semantic-Depth Fusion Transformer for Monocular 3D Object Detection with Token Clustering and Merging](#).
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS 2024 (D&B Track)**: [MEQA: A Benchmark for Multi-hop Event-centric Question Answering with Explanations](#).
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by **EMNLP 2024 (Findings)**: [Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering](#).
+- *2024.08*: &nbsp;🎉🎉 One paper accepted by **ICONIP 2024**: [MonoTCM: Semantic-Depth Fusion Transformer for Monocular 3D Object Detection with Token Clustering and Merging](#).
 - *2024.02*: &nbsp;🎉🎉 New preprint: [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/pdf/2402.10699.pdf).
 - *2024.01*: &nbsp;🎉🎉 One paper accepted by **CSCWD 2024**: [Generating Valid and Natural Adversarial Examples with Large Language Models](https://arxiv.org/pdf/2311.11861.pdf).
 - *2024.01*: &nbsp;🎉🎉 One paper accepted by **EACL 2024**: [FinBPM: A Framework for Portfolio Management-based Financial Investor Behavior Perception Model](https://aclanthology.org/2024.eacl-long.15.pdf).
